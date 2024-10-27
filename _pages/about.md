@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-- Junior
 - Department of Computer Science of Technology
 - Tsinghua University
 
 # Research Interests
 
-My research interests include efficient algorithms for large language models, including model compression methods, particularly structured sparsity and dynamic sparse training. I want to break the monopoly of unicorns in AI and make computer systems affordable and accessible for every researcher.
+My research interests include efficient algorithms for machine learning, including model compression methods, particularly dynamic sparse training and quantization. I want to break the monopoly of unicorns in AI and make deep learning affordable and accessible for every researcher.

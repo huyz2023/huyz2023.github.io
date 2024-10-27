@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+- **Accelerating Transformer Pre-training with 2:4 Sparsity** [[PDF]](https://proceedings.mlr.press/v235/hu24r.html) [[OpenReview]](https://openreview.net/forum?id=kTaX87Zn6M) [[Project page]](https://github.com/huyz2023/2by4-pretrain) [[arXiv]](https://arxiv.org/abs/2404.01847)
 
-{% include base_path %}
+  Yuezhou Hu, Kang Zhao, Weiyu Huang, Jianfei Chen, Jun Zhu
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  International Conference on Machine Learning (ICML), 2024
+
+- **S-STE: Continuous Pruning Function for Efficient 2:4 Sparse Pre-training** [[OpenReview]](https://github.com/huyz2023/2by4-pretrain) [[Project page]](https://github.com/huyz2023/2by4-pretrain) [[arXiv]](https://arxiv.org/abs/2409.09099)
+
+  Yuezhou Hu, Jun Zhu, Jianfei Chen
+
+  Neural Information Processing Systems (NeurIPS), 2024
