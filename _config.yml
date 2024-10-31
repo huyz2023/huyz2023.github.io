@@ -21,7 +21,7 @@ url                      : https://huyz2023.github.io # the base hostname & prot
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yuezhou Hu"
 #  pronouns         : # example: "she/her"
   bio              : "Beginner to machine learning | THU CS"
