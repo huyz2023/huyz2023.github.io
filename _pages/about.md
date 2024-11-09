@@ -12,4 +12,4 @@ redirect_from:
 
 # Research Interests
 
-My research interests include efficient algorithms for machine learning, including model compression methods, particularly dynamic sparse training and quantization. I want to break the monopoly of unicorns in AI and make deep learning affordable and accessible for every researcher.
+My research interests include efficient algorithms for machine learning, particularly dynamic sparse training and quantization. I want to break the monopoly of unicorns in AI and make deep learning affordable and accessible for every researcher.
