@@ -17,8 +17,10 @@ author_profile: true
 
   Neural Information Processing Systems (NeurIPS), 2024
 
-# Working Papers
-
 - **Pruning Large Language Models with Semi-Structural Adaptive Sparse Training** [[arXiv]](https://arxiv.org/abs/2407.20584)
 
   Weiyu Huang, **Yuezhou Hu**, Guohao Jian, Jun Zhu, Jianfei Chen
+
+  AAAI Conference on Artificial Intelligence, 2025
+  
+[//]: # (# Working Papers)
